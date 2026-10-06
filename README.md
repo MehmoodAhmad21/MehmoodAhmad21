@@ -128,6 +128,7 @@ Built an interactive genetics simulator using **React and TypeScript**, modeling
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=plastic)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=plastic&logo=python&logoColor=white)
 
+
 ---
 
 ### 📫 Let's Connect
