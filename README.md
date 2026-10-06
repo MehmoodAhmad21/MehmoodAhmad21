@@ -25,7 +25,8 @@ Previously, I worked as a **Software Engineer Intern at the University of Albert
 ### 👁️ AI Safety Monitoring
 Developed a real-time construction safety monitoring system combining **YOLOv11 object detection with vision-language model reasoning**, improving hazard-identification F1-score from **34.5% → 50.6%** with only ~2.5 ms of added inference latency.
 
-📄 Co-author of **"Integration of Object Detection and Small VLMs for Construction Safety Hazard Identification" (2026).**
+📄 **Publication:** [Integration of Object Detection and Small VLMs for Construction Safety Hazard Identification](https://arxiv.org/abs/2604.05210)  
+*arXiv, 2026 — Computer Vision and Pattern Recognition (cs.CV)*
 
 ### 🤖 Remote Inspection Robot
 Built a remote robotic inspection system using **ROS**, paired with a **Unity/C# VR interface** for real-time navigation and a high-performance **FFmpeg video streaming pipeline**.
