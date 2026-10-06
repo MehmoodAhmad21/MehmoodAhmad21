@@ -4,7 +4,6 @@ I'm a **Software Engineer and Computer Science student at the University of Albe
 
 I enjoy building intelligent and interactive software across **AI / Computer Vision, Full-Stack Development, Robotics, and Game Technology**.
 
-Previously, I worked as a **Software Engineer Intern at the University of Alberta**, developing real-time computer vision, vision-language model, robotics, streaming, and VR systems. I've also worked in software engineering and DevOps at **Aro Robotic Systems**.
 
 - 🔭 Currently building **full-stack and AI-powered applications**
 - 🧠 Interested in **Software Engineering, AI/ML, Computer Vision, and Game Technology**
